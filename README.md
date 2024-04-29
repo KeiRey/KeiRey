@@ -5,8 +5,6 @@ I'm an enthusiastic student from Pamulang University (UNPAM), based in Depok, We
  **I am open to**:
 
 - any collaboration work,
-- machine learning projects(development or research),
-- research internships and
 - build web3 project
 
 ## Skills:
