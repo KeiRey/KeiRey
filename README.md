@@ -4,8 +4,10 @@ I'm an enthusiastic student from Pamulang University (UNPAM), based in Depok, We
 
  **I am open to**:
 
-- any collaboration work,
+- any collaboration work
 - build web3 project
+- build interactive website
+- build professional dashboard
 
 ## Skills:
 
