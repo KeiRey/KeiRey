@@ -15,13 +15,13 @@
 <a href="https://keimalreyyan.dev"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/keimalreyyan"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:reyyankeimal1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/keimalreyyan"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/keirey"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=keimalreyyan&style=flat-square&color=8B5CF6&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/keimalreyyan?style=flat-square&color=6D28D9&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/keimalreyyan?style=flat-square&color=7C3AED&labelColor=1a1a2e&label=Stars"/>
+<img src="https://komarev.com/ghpvc/?username=keirey&style=flat-square&color=8B5CF6&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/keirey?style=flat-square&color=6D28D9&labelColor=1a1a2e&label=Followers"/>
+<img src="https://img.shields.io/github/stars/keirey?style=flat-square&color=7C3AED&labelColor=1a1a2e&label=Stars"/>
 
 </div>
 
@@ -280,9 +280,9 @@ Built internal enterprise applications for one of Indonesia's largest IT compani
 
 <div align="center">
 
-<a href="https://leetcode.com/keimalreyyan"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.hackerrank.com/keimalreyyan"><img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/keimalreyyan"><img src="https://img.shields.io/badge/Codewars-Profile-8B5CF6?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+<a href="https://leetcode.com/keirey"><img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://www.hackerrank.com/keirey"><img src="https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/keirey"><img src="https://img.shields.io/badge/Codewars-Profile-8B5CF6?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 
 </div>
 
@@ -292,12 +292,12 @@ Built internal enterprise applications for one of Indonesia's largest IT compani
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=keimalreyyan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=keimalreyyan&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=keirey&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9"/>
+<img height="180" src="https://streak-stats.demolab.com/?user=keirey&theme=midnight-purple&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keimalreyyan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keirey&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
 </div>
 
@@ -307,7 +307,7 @@ Built internal enterprise applications for one of Indonesia's largest IT compani
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=keimalreyyan&theme=discord&no-frame=true&no-bg=true&column=7&title_color=A78BFA"/>
+<img src="https://github-profile-trophy.vercel.app/?username=keirey&theme=discord&no-frame=true&no-bg=true&column=7&title_color=A78BFA"/>
 
 </div>
 
@@ -317,7 +317,7 @@ Built internal enterprise applications for one of Indonesia's largest IT compani
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keimalreyyan&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=6D28D9&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keirey&theme=react-dark&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=6D28D9&hide_border=true"/>
 
 </div>
 
@@ -327,7 +327,7 @@ Built internal enterprise applications for one of Indonesia's largest IT compani
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/keimalreyyan/keimalreyyan/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/keirey/keirey/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -365,7 +365,7 @@ open_to:
 
 <a href="mailto:reyyankeimal1@gmail.com"><img src="https://img.shields.io/badge/Gmail-reyyankeimal1@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/keimalreyyan"><img src="https://img.shields.io/badge/LinkedIn-keimalreyyan-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/keimalreyyan"><img src="https://img.shields.io/badge/GitHub-keimalreyyan-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/keirey"><img src="https://img.shields.io/badge/GitHub-keirey-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
